@@ -3,7 +3,7 @@ My vimrc
 
 # Description #
 > **Notice:** This is a special version for vim7.02 support.
-> It remove unsupport plugin in vim7.02
+> It remove unsupport plugin in vim7.02.
 > I will find some alternative plugin later
 
 This is my vimrc. It contain some awesome plugin, and user friendly setting.
