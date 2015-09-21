@@ -97,8 +97,6 @@ au BufRead,BufNewFile *.json setf json
 " comment
 map <Leader><Leader> <Leader>c<space>
 
-execute "set colorcolumn=" . join(range(161,335), ',')
-
 " next and prev tab
 noremap <F7> gT
 noremap <F8> gt

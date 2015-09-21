@@ -8,12 +8,7 @@ Plug 'bling/vim-airline'
 
 " Navigation
 Plug 'a.vim'
-Plug 'Shougo/vimfiler.vim'
 Plug 'majutsushi/tagbar'
-Plug 'Shougo/unite.vim'
-  Plug 'osyo-manga/unite-filetype'
-  Plug 'basyura/unite-rails'
-  Plug 'ujihisa/unite-rake'
 
 " Motion
 Plug 'CamelCaseMotion'
@@ -22,24 +17,13 @@ Plug 'CamelCaseMotion'
 Plug 'syntastic'
 
 " Completion
-Plug 'Shougo/neocomplete.vim'
-Plug 'Shougo/neocomplcache-rsense.vim'
 Plug 'Raimondi/delimitMate'
-Plug 'SirVer/ultisnips'
 Plug 'tpope/vim-endwise'
 Plug 'mattn/emmet-vim'
 
 
 Plug 'tpope/vim-fugitive'
-Plug 'Shougo/vimproc.vim'
-Plug 'Shougo/vimshell.vim'
 Plug 'tpope/vim-eunuch'
-
-" Diff
-Plug 'chrisbra/vim-diff-enhanced'
-
-" Input method
-Plug 'fcitx.vim'
 
 " Utility
 Plug 'kshenoy/vim-signature'
@@ -55,7 +39,6 @@ Plug 'tommcdo/vim-exchange'
 Plug 'godlygeek/tabular'
 Plug 'sjl/gundo.vim'
 Plug 'powerman/vim-plugin-viewdoc'
-Plug 'dhruvasagar/vim-dotoo'
 
 " Color Scheme
 Plug 'NLKNguyen/papercolor-theme'
@@ -64,7 +47,6 @@ Plug 'tomasr/molokai'
 " Highlight & Language support
 
 Plug 'DanSnow/Block.vim'
-Plug 'Chiel92/vim-autoformat'
 
 " Test
 " Plug 'janko-m/vim-test'
