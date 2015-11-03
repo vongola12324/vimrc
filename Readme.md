@@ -108,6 +108,7 @@ Visual mode:
 - [vim-endwise](https://github.com/tpope/vim-endwise)
 
 ## Integration ##
+=======
 - [vim-fugitive](https://github.com/tpope/vim-fugitive)
 - [vim-eunuch](https://github.com/tpope/vim-eunuch)
 
