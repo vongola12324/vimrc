@@ -25,7 +25,6 @@ Plug 'syntastic'
 
 " Completion
 Plug 'Raimondi/delimitMate'
-Plug 'SirVer/ultisnips'
 Plug 'tpope/vim-endwise'
 
 Plug 'tpope/vim-fugitive'
