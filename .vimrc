@@ -7,20 +7,20 @@ let g:mapleader=','
 
 call plug#begin("~/.vim/bundle")
 
-" Interface
+"" Interface
 Plug 'bling/vim-airline'
 
-" Navigation
+"" Navigation
 Plug 'a.vim'
 Plug 'Shougo/vimfiler.vim'
 Plug 'majutsushi/tagbar'
 Plug 'Shougo/unite.vim'
   Plug 'osyo-manga/unite-filetype'
 
-" Motion
+"" Motion
 Plug 'CamelCaseMotion'
 
-" Syntax Check
+"" Syntax Check
 Plug 'syntastic'
 
 " Completion
@@ -28,13 +28,16 @@ Plug 'Raimondi/delimitMate'
 Plug 'SirVer/ultisnips'
 Plug 'tpope/vim-endwise'
 
+
+"" Integration
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-eunuch'
 
-" Diff
+"" Diff
 Plug 'chrisbra/vim-diff-enhanced'
 
-" Utility
+"" Utility
+Plug 'kshenoy/vim-signature'
 Plug 'SingleCompile'
 " Plug 'tmhedberg/matchit'
 Plug 'Yggdroot/indentLine'
@@ -48,10 +51,10 @@ Plug 'tommcdo/vim-exchange'
 Plug 'powerman/vim-plugin-viewdoc'
 Plug 'dhruvasagar/vim-dotoo'
 
-" Color Scheme
+"" Color Scheme
 Plug 'tomasr/molokai'
 
-" Highlight & Language support
+"" Highlight & Language support
 
 Plug 'DanSnow/Block.vim'
 Plug 'Chiel92/vim-autoformat'
