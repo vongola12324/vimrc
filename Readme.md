@@ -99,11 +99,14 @@ Visual mode:
 
 ## Syntax Check ##
 - [syntastic](https://github.com/vim-scripts/syntastic)
+- [vim-lint](https://github.com/dbakker/vim-lint)
 
 ## Completion ##
 - [delimitMate](https://github.com/Raimondi/delimitMate)
 - [ultisnips](https://github.com/SirVer/ultisnips)
 - [vim-endwise](https://github.com/tpope/vim-endwise)
+
+## Integration ##
 - [vim-fugitive](https://github.com/tpope/vim-fugitive)
 - [vim-eunuch](https://github.com/tpope/vim-eunuch)
 
@@ -113,10 +116,10 @@ Visual mode:
 ## Utility ##
 - [vim-signature](https://github.com/kshenoy/vim-signature)
 - [SingleCompile](https://github.com/vim-scripts/SingleCompile)
-- [matchit](https://github.com/tmhedberg/matchit)
 - [indentLine](https://github.com/Yggdroot/indentLine)
 - [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 - [vim-surround](https://github.com/tpope/vim-surround)
+- [vim-abolish](https://github.com/tpope/vim-abolish)
 - [tComment](https://github.com/vim-scripts/tComment)
 - [vim-unimpaired](https://github.com/tpope/vim-unimpaired)
 - [vim-repeat](https://github.com/tpope/vim-repeat)
