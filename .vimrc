@@ -28,8 +28,6 @@ Plug 'Raimondi/delimitMate'
 Plug 'SirVer/ultisnips'
 Plug 'tpope/vim-endwise'
 
-
-
 "" Integration
 Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-eunuch'
@@ -55,7 +53,7 @@ Plug 'dhruvasagar/vim-dotoo'
 Plug 'tomasr/molokai'
 
 "" Highlight & Language support
-
 Plug 'DanSnow/Block.vim'
 Plug 'Chiel92/vim-autoformat'
+
 call plug#end()
