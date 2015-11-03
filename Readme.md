@@ -17,6 +17,15 @@ But remove all the syntax highlight and specific language support.
 Now have 5 version. Lite version can be a started version. And you can add your favorite support on it.  
 Or maybe you need to use it with vim7.02, you can use the third and forth version.
 
+# Branch #
+- [full version](https://github.com/DanSnow/vimrc)
+- [lite version](https://github.com/DanSnow/vimrc/tree/lite)
+- [full version (with vim7.02 support)](https://github.com/DanSnow/vimrc/tree/vim702)
+- [lite version (with vim7.02 support)](https://github.com/DanSnow/vimrc/tree/vim702-lite)
+## Overview ##
+Now have 4 version. Lite version can be a started version. And you can add your favorite support on it.  
+Or maybe you need to use it with vim7.02, you can use the third and forth version.
+
 # Screenshot #
 
 ![Screenshot](/screenshot/screenshot1.png?raw=1)
