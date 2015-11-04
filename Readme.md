@@ -79,12 +79,7 @@ I admit the amount of plugin cause performance problem. But it useful, maybe.
 
 ## Navigation ##
 - [a.vim](https://github.com/vim-scripts/a.vim)
-- [vimfiler.vim](https://github.com/Shougo/vimfiler.vim)
 - [tagbar](https://github.com/majutsushi/tagbar)
-- [unite.vim](https://github.com/Shougo/unite.vim)
-- [unite-filetype](https://github.com/osyo-manga/unite-filetype)
-- [unite-rails](https://github.com/basyura/unite-rails)
-- [unite-rake](https://github.com/ujihisa/unite-rake)
 
 ## Motion ##
 - [CamelCaseMotion](https://github.com/vim-scripts/CamelCaseMotion)
@@ -95,23 +90,12 @@ I admit the amount of plugin cause performance problem. But it useful, maybe.
 
 ## Completion ##
 - [delimitMate](https://github.com/Raimondi/delimitMate)
-- [ultisnips](https://github.com/SirVer/ultisnips)
 - [vim-endwise](https://github.com/tpope/vim-endwise)
 - [emmet-vim](https://github.com/mattn/emmet-vim)
 
 ## Integration ##
 - [vim-fugitive](https://github.com/tpope/vim-fugitive)
-- [vimproc.vim](https://github.com/Shougo/vimproc.vim)
-- [vimshell.vim](https://github.com/Shougo/vimshell.vim)
 - [vim-eunuch](https://github.com/tpope/vim-eunuch)
-
-## Diff ##
-- [vim-diff-enhanced](https://github.com/chrisbra/vim-diff-enhanced)
-
-## Input method ##
-- [fcitx.vim](https://github.com/vim-scripts/fcitx.vim)
-
-## Utility ##
 - [vim-signature](https://github.com/kshenoy/vim-signature)
 - [SingleCompile](https://github.com/vim-scripts/SingleCompile)
 - [indentLine](https://github.com/Yggdroot/indentLine)
@@ -125,7 +109,6 @@ I admit the amount of plugin cause performance problem. But it useful, maybe.
 - [tabular](https://github.com/godlygeek/tabular)
 - [gundo.vim](https://github.com/sjl/gundo.vim)
 - [vim-plugin-viewdoc](https://github.com/powerman/vim-plugin-viewdoc)
-- [vim-dotoo](https://github.com/dhruvasagar/vim-dotoo)
 
 ## Color Scheme ##
 - [papercolor-theme](https://github.com/NLKNguyen/papercolor-theme)
@@ -133,7 +116,6 @@ I admit the amount of plugin cause performance problem. But it useful, maybe.
 
 ## Highlight & Language support ##
 - [Block.vim](https://github.com/DanSnow/Block.vim)
-- [vim-autoformat](https://github.com/Chiel92/vim-autoformat)
 
 ## Test ##
 - [vim-dispatch](https://github.com/tpope/vim-dispatch)
