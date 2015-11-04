@@ -5,7 +5,7 @@ set fileencodings=utf-8,cp950
 let mapleader=','
 let g:mapleader=','
 
-call plug#begin("~/.vim/bundle")
+call plug#begin("~/.vim/plugged")
 
 "" Interface
 Plug 'bling/vim-airline'
@@ -23,10 +23,11 @@ Plug 'CamelCaseMotion'
 "" Syntax Check
 Plug 'syntastic'
 
-" Completion
+"" Completion
 Plug 'Raimondi/delimitMate'
 Plug 'SirVer/ultisnips'
 Plug 'tpope/vim-endwise'
+
 
 
 "" Integration
@@ -39,7 +40,6 @@ Plug 'chrisbra/vim-diff-enhanced'
 "" Utility
 Plug 'kshenoy/vim-signature'
 Plug 'SingleCompile'
-" Plug 'tmhedberg/matchit'
 Plug 'Yggdroot/indentLine'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'tpope/vim-surround'
